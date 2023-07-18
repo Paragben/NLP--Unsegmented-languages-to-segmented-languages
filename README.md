@@ -10,4 +10,6 @@ There are several types of statistical-based machine translation models includin
 The decoder will make use of LM and TM to generate the translation.
 Along with this, the translation of one language to another is done using 3 methods in Statistical-based Machine Translation (SMT): 
 Hierarchical phrase-based translation, Syntax-based translation, Phrase-based translation, Word-based translation.
+
+
 <img width="287" alt="image" src="https://github.com/Paragben/NLP--Unsegmented-languages-to-segmented-languages/assets/106899303/2a891972-8512-4003-926d-cdc6bfe226bd">
